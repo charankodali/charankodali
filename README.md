@@ -11,7 +11,8 @@
 
 - 📫 How to reach me <a href="Charankodali3@gmail.com">G-Mail</a>
 
-- ⚡ Fun fact **Mosquitos are attracted to people who just ate bananas.**
+- ⚡ Fun fact **Learning WEB Application 🍁 || Content Creator<br>
+Sharing insider knowledge as I learn the ropes of web development and design.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
