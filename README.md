@@ -11,13 +11,13 @@
 
 - 📫 How to reach me <a href="Charankodali3@gmail.com">G-Mail</a>
 
-- ⚡ Fun fact **Learning WEB Application 🍁 || Content Creator<br>
+- **Learning WEB Application 🍁 || Content Creator<br>
 Sharing insider knowledge as I learn the ropes of web development and design.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/charan_kodali" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3670/3670151.png" alt="https://twitter.com/charan_kodali" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/charan-kodali-1b9639208" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="www.linkedin.com/in/charan-kodali-1b9639208" height="40" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/charan__kodali/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" alt="https://www.instagram.com/charan__kodali/" height="40" width="40" /></a>
+<a href="https://twitter.com/charan_kodali" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3670/3670151.png" alt="https://twitter.com/charan_kodali" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/charan-kodali-1b9639208" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="www.linkedin.com/in/charan-kodali-1b9639208" height="40" width="40" /></a>
+<a href="https://instagram.com/charan__kodali/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" alt="https://www.instagram.com/charan__kodali/" height="40" width="40" /></a>
 </p>
 
