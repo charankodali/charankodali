@@ -14,7 +14,7 @@
 - **Learning WEB Application 🍁 || Content Creator<br>
 Sharing insider knowledge as I learn the ropes of web development and design.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://twitter.com/charan_kodali" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3670/3670151.png" alt="https://twitter.com/charan_kodali" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/charan-kodali-1b9639208" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="www.linkedin.com/in/charan-kodali-1b9639208" height="40" width="40" /></a>
