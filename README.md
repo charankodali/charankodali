@@ -12,5 +12,8 @@
 
 - 📫 Let's Connect : charankodali3@gmail.com
 
+<h3>Languages and Tools:</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bash,codepen,vscode)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=replit,git,py,java,vercel)](https://skillicons.dev)
