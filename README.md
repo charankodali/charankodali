@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Back-End**
 
-- 📫 Let's Connect : charankodali3@gmail.com
+- 📫 Let's Connect : craj19965@gmail.com
 
 <h3>Languages and Tools:</h3>
 
